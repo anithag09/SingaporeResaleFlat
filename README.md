@@ -1,6 +1,6 @@
 # SingaporeResaleFlat
 
-This project provides a web-based application for predicting the selling price of items and the status of business transactions using machine learning models. The application is built using [Streamlit](https://streamlit.io/) and allows users to input relevant data through an intuitive interface.
+This project offers a streamlined solution for predicting Singapore resale flat prices using advanced machine learning models. It empowers users to forecast the resale value of flats by leveraging a user-friendly interface that simplifies data input. The application provides quick and accurate predictions, enabling informed decision-making for buyers, sellers, and real estate professionals alike. Through meticulous data preprocessing, feature engineering, and model tuning, the system ensures reliable outputs that cater to the unique dynamics of the Singaporean housing market.
 
 ## Table of Contents
 
