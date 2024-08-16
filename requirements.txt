@@ -1,9 +1,7 @@
-### Packages to be installed
-- sklearn
-- numpy
-- matplotlib
-- seaborn
-- streamlit
-- pandas
-- xgboost
-- render platform account creation
+sklearn
+numpy
+matplotlib
+seaborn
+streamlit
+pandas
+xgboost
