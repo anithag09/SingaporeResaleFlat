@@ -14,7 +14,6 @@ This project offers a streamlined solution for predicting Singapore resale flat 
 
 - **Resale Price Prediction**: Predict the resale price of a flat based on features such as town, flat type, flat model, floor area using a Random Forest Regressor model.
 - **User-Friendly Interface**: Simple and easy-to-use interface built with Streamlit.
-- **Rendor Platform**: The web application is deployed to Rendor platform for public use.
   
 ## Installation
 
@@ -51,3 +50,8 @@ Ensure that your input data is encoded and structured similarly to how the model
 - **Random Forest Regressor**: Used for predicting the resale price for a flat based on input features.
 
 The model is saved as pickle file and is loaded within the Streamlit application for making predictions.
+
+The web application is deployed to Rendor platform for public use.
+
+<img width="1440" alt="Screenshot 2024-08-16 at 6 08 47 PM" src="https://github.com/user-attachments/assets/d710f307-2c82-4b09-9b46-53cfff51dbca">
+
