@@ -32,7 +32,7 @@ if selected == "Home":
     st.markdown("### :blue[About the Project:] This project offers a streamlined solution for predicting Singapore resale flat prices using advanced machine learning models. It empowers users to forecast the resale value of flats by leveraging a user-friendly interface that simplifies data input. The application provides quick and accurate predictions, enabling informed decision-making for buyers, sellers, and real estate professionals alike.")
     st.markdown("### :blue[Domain:] Real Estate")
     st.write(" ")
-    st.markdown("### Dataset: [Click Here](https://github.com/anithag09/SingaporeResaleFlat/blob/main/Data.csv).")
+    st.markdown("### Dataset: [Click Here](https://beta.data.gov.sg/collections/189/view).")
 
 if selected == "Price Prediction":
 
