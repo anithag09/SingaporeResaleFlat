@@ -51,7 +51,7 @@ Ensure that your input data is encoded and structured similarly to how the model
 
 The model is saved as pickle file and is loaded within the Streamlit application for making predictions.
 
-The web application is deployed to Rendor platform for public use.
+The web application is deployed to Rendor platform.
 
 <img width="1440" alt="Screenshot 2024-08-16 at 6 08 47 PM" src="https://github.com/user-attachments/assets/d710f307-2c82-4b09-9b46-53cfff51dbca">
 
